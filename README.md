@@ -29,17 +29,17 @@ The system monitors ambient temperature every 10 seconds and automatically activ
 
 ## Circuit Diagram
 
-![ESP32 Fan Controller Circuit](hardware/esp32-fan-schematic.png)
+![ESP32 Fan Controller Circuit](hardware%3A/esp32-fan-schematic.png)
 
 ## Project Photos
 
 ### Breadboard Setup
 
-![ESP32 Breadboard Setup](images/ProjectPhoto_1.jpg)
+![ESP32 Breadboard Setup](images%3A/ProjectPhoto_1.jpg)
 
 ### Additional View
 
-![ESP32 Fan Controller](images/ProjectPhoto_2.jpg)
+![ESP32 Fan Controller](images%3A/ProjectPhoto_2.jpg)
 
 ## How It Works
 
@@ -64,7 +64,7 @@ The system repeats this process every 10 seconds.
 - **Microcontroller:** ESP32
 - **Sensor libraries:** None
 
-**Source Code:** [temperature_controlled_fan.ino](firmware/temperature_controlled_fan/temperature_controlled_fan.ino)
+The firmware is available in the `firmware` folder.
 
 ## Challenges & Learning Outcomes
 
